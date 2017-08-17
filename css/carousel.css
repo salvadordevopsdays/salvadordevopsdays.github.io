@@ -53,6 +53,7 @@ html,body{height:100%;}
 
 .carousel-caption {
   z-index: 10;
+  heigth: 100%
 }
 
 /* Declare heights because of positioning of img element */
@@ -410,7 +411,7 @@ footer .conteudo {
     padding-bottom: initial;
   }
   .carousel-caption img {
-    width: 90%;
+    max-height: 100%;
   }
   #infos {
     height: 100%;
