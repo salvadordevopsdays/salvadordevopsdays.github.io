@@ -29,7 +29,7 @@ mapa_draggable = true #o mapa poderá ser arrastado?
 mapa_zoomControl = true #mostrar o controle de zoom?
 mapa_scrollwheel = false #a roda de rolagem do mouse deve poder alterar o zoom?
 mapa_disableDoubleClickZoom = true #vou ser sincero, não entendi o que isso faz, hahaha
-mapa_key = "" #chave na api do google, lembre de permitir o uso no google maps e afins!
+mapa_key = "AIzaSyCZgSdqxA3s-WhsIkB7TLQ4T4Z0Yz3oxH8" #chave na api do google, lembre de permitir o uso no google maps e afins!
 
 status_ingressos = "indisponiveis" #qualquer coisa que não seja "disponiveis" irá mostrar o aviso
 aviso_status_ingressos = ""
