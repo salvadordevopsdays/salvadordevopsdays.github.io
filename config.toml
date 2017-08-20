@@ -22,8 +22,8 @@ quanto = "Em breve mais informações"
 
 #latitude e longitude podem ser pegos no google maps mesmo :)
 #o mapa irá ficar centralizado nessas coordenadas E irá colocar o marcador exatamente sobre
-mapa_latitude = -12.9770072
-mapa_longitude = -38.4571308
+mapa_latitude = -12.9774850
+mapa_longitude = -38.4574100
 mapa_zoom = 17 #nível de zoom que será apresentado o mapa
 mapa_draggable = true #o mapa poderá ser arrastado?
 mapa_zoomControl = true #mostrar o controle de zoom?
