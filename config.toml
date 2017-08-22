@@ -11,7 +11,7 @@ slider_sidecontrols = "disable" #qualquer coisa que não seja "enable" irá desa
 intro_image = "logo_salvador.svg" #apenas o nome da imagem, deve estar em img/intro/
 link_c4p = "" #endereço para o form/sistema de call4papers
 
-email = "organizers-portoalegre-2017@devopsdays.org" #email da organização do email
+email = "organizers-salvador-2017@devopsdays.org" #email da organização do email
 twitter = "devopsdaysssa" #para https://www.twitter.com/nao-existe colocar apenas "não-existe"
 facebook = "devopsdaysssa" #para https://www.facebook.com/nao-existe colocar apenas "não-existe"
 
