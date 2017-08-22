@@ -12,8 +12,8 @@ intro_image = "logo_salvador.svg" #apenas o nome da imagem, deve estar em img/in
 link_c4p = "" #endereço para o form/sistema de call4papers
 
 email = "organizers-portoalegre-2017@devopsdays.org" #email da organização do email
-twitter = "" #para https://www.twitter.com/nao-existe colocar apenas "não-existe"
-facebook = "" #para https://www.facebook.com/nao-existe colocar apenas "não-existe"
+twitter = "devopsdaysssa" #para https://www.twitter.com/nao-existe colocar apenas "não-existe"
+facebook = "devopsdaysssa" #para https://www.facebook.com/nao-existe colocar apenas "não-existe"
 
 #Os próximos 3 parametros aceitam tags html (ex: <br>) e markdown (ex: **negrito**)
 quando = "28 de Outubro de 2017"
