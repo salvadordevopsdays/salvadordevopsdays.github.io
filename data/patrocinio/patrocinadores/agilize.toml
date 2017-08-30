@@ -1,0 +1,5 @@
+nome = "agilize" #nome do patrocinador
+descricao = "Agilize Contabilidade Online" #descricao que irá aparecer como texto alternativo da imagem
+link = "https://www.agilize.com.br/" #endereço do site do patrocinador
+categoria = "apoio" #categoria do patrocinador (mesma informação do campo "nome" nos arquivos em data/patrocinio/categorias)
+imagem = "agilize-marca.svg" #imagem da empresa (apenas o nome do arquivo, deve estar em static/img/patrocinio)
