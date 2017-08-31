@@ -60,6 +60,7 @@ html,body{height:100%;}
   justify-content: center;
   padding-bottom: 6%;
   padding-top: 6%;
+  bottom: auto;
 }
 
 .carousel-caption h1 {
