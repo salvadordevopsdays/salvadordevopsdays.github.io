@@ -1,0 +1,5 @@
+nome = "codeops" #nome do patrocinador
+descricao = "CodeOps_ - Coding your business. We are devops." #descricao que irá aparecer como texto alternativo da imagem
+link = "http://www.codeops.com.br/" #endereço do site do patrocinador
+categoria = "bronze" #categoria do patrocinador (deve ser o mesmo nome do arquivo em data/patrocinio/categorias sem a extensão)
+imagem = "codeops.svg" #imagem da empresa (apenas o nome do arquivo, deve estar em static/img/patrocinio)
