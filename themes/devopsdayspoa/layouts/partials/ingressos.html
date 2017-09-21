@@ -15,7 +15,7 @@
           <p>{{ .descricao | markdownify }}</p>
         </div>
         <div>
-          <p class="preco">{{ .preco }}</p>
+          <p class="preco">{{ .valor }}</p>
           <a href="{{ .link }}" class="btn btn-default {{ if (modBool ($.Scratch.Get "secao") 2) }}blue{{end}}" role="button" target="_blank">Comprar</a>
         </div>
       </div>
