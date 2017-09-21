@@ -18,7 +18,7 @@ facebook = "devopsdaysssa" #para https://www.facebook.com/nao-existe colocar ape
 #Os próximos 3 parametros aceitam tags html (ex: <br>) e markdown (ex: **negrito**)
 quando = "28 de Outubro de 2017"
 onde = "[Agilize Contabilidade Online](https://www.agilize.com.br/)<br>Alameda Salvador, 1057"
-quanto = "Em breve mais informações"
+quanto = "A partir de R$20,00"
 
 #latitude e longitude podem ser pegos no google maps mesmo :)
 #o mapa irá ficar centralizado nessas coordenadas E irá colocar o marcador exatamente sobre
