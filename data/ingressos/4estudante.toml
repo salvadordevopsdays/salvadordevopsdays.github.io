@@ -1,0 +1,4 @@
+nome = "Estudantes" #nome do tipo de ingresso
+descricao = "Estudante paga metade do valor vigente de ingresso" #descrição para o tipo de ingresso
+valor = "" #valor para o tipo de ingresso
+link = "https://devopsdaysalvador.eventize.com.br/index.php?inscricao" #endereço para a compra desse tipo de ingresso

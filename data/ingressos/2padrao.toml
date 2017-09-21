@@ -1,0 +1,4 @@
+nome = "Valor padrão" #nome do tipo de ingresso
+descricao = "Valor padrão do evento<br>Entre os dias 07 e 20 de Outubro" #descrição para o tipo de ingresso
+valor = "R$ 50,00" #valor para o tipo de ingresso
+link = "https://devopsdaysalvador.eventize.com.br/index.php?inscricao" #endereço para a compra desse tipo de ingresso
