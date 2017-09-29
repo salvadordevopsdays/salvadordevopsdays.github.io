@@ -1,10 +1,11 @@
 hora = "09:25 - 09:50" #hora da atividade
-atividade = "A definir" #nome da atividade
+atividade = "Desenvolvimento de módulos Ansible" #nome da atividade
 #descricao da atividade (aceita html e markdown)
 #para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas
 #exemplo:
 #descricao = """blablabla
 #blablabla
 #blablabla"""
-descricao = "Palestra a ser definida pelo Call4Papers"
-palestrante = "A definir" #nome do palestrante
+descricao = """Seus playbooks estão ficando muito complexos? Difíceis de serem idempotentes? Não proveem feedback adequado? Modules podem ser uma melhor alternativa para seu problema.
+Como melhor entender os modules embutidos no Ansible, contribuir e começar a desenvolver os seus próprios."""
+palestrante = "Jairo Junior" #nome do palestrante

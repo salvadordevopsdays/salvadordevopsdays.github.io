@@ -1,10 +1,10 @@
-hora = "13:30 - 13:55" #hora da atividade
-atividade = "A definir" #nome da atividade
+hora = "10:30 - 11:15" #hora da atividade
+atividade = "DevOps ToolKit" #nome da atividade
 #descricao da atividade (aceita html e markdown)
 #para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas
 #exemplo:
 #descricao = """blablabla
 #blablabla
 #blablabla"""
-descricao = "Palestra a ser definida pelo Call4Papers"
-palestrante = "A definir" #nome do palestrante
+descricao = "Já sabemos que DevOps também é cultura, onde é necessário diversas habilidades que vai além do técnico, mas hoje vamos abordar quais as ferramentas que empresas que já possuem a cultura DevOps utilizam no seu dia-a-dia, seja para seu CI/CD, automação de sua infra e outras ferramentas importantes para aumentar a produtividade de sua equipe e a frequências de entregas."
+palestrante = "Jeferson Fernando e Mateus Prado" #nome do palestrante

@@ -1,0 +1,14 @@
+hora = "13:55 - 14:20" #hora da atividade
+atividade = "Prometheus e Grafana 101: comece a monitorar suas aplicações, servidores e serviços" #nome da atividade
+#descricao da atividade (aceita html e markdown)
+#para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas
+#exemplo:
+#descricao = """blablabla
+#blablabla
+#blablabla"""
+descricao = """Quando o produto que desenvolvemos passa a ter usuários em produção, cada mudança problemática diminui a confiança na qualidade do processo de entrega do produto. Em muitos casos, a reação a isso envolve adicionar burocracia e impedimentos para novas implantações, gerando frustração no time de desenvolvimento.
+
+Entrega Contínua é um conjunto de princípios e práticas que ajudam a nutrir um ambiente de experimentação e confiança nas mudanças que estão sendo adicionadas ao produto.
+
+Como podemos avaliar a maturidade na adoção de Entrega Contínua em nossos times, entendendo os principais gargalos pra aumentar a confiança da organização em seu processo de entrega?"""
+palestrante = "Robson Roberto Souza Peixoto" #nome do palestrante

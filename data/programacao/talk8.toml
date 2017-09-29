@@ -1,0 +1,10 @@
+hora = "14:30 - 15:15" #hora da atividade
+atividade = "Logging Analytics e Machine Learning com Elastic Stack" #nome da atividade
+#descricao da atividade (aceita html e markdown)
+#para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas
+#exemplo:
+#descricao = """blablabla
+#blablabla
+#blablabla"""
+descricao = ""
+palestrante = "Thiago Souza" #nome do palestrante

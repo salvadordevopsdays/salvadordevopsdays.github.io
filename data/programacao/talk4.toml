@@ -1,10 +1,19 @@
-hora = "13:55 - 14:20" #hora da atividade
-atividade = "A definir" #nome da atividade
+hora = "11:15 - 11:40" #hora da atividade
+atividade = "Mémoire de um Dev-não-Ops" #nome da atividade
 #descricao da atividade (aceita html e markdown)
 #para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas
 #exemplo:
 #descricao = """blablabla
 #blablabla
 #blablabla"""
-descricao = "Palestra a ser definida pelo Call4Papers"
-palestrante = "A definir" #nome do palestrante
+descricao = """DevOps me foi apresentado como a união entre desenvolvimento e operações em favor de uma entrega mais confiável de software.
+
+Como alcançar essa confiança? Através de automação de infraestrutura, testes e implantação, monitoramento, pipelines de entrega… Todas práticas já defendidas nos princípios de Entrega Contínua.
+
+Sendo assim, o que há de novo em DevOps? Em que ele difere das práticas de Entrega Contínua?
+
+Trabalhei em times onde não só praticávamos integração e entrega contínua como também províamos um ambiente para que outros times o fizessem. Sempre nos consideraram o time "DevOps” e isso me incomodava. Muito antes de qualquer rótulo, eram os princípios de Entrega Contínua que nos guiavam.
+
+A curiosidade me levou a tentar entender o movimento além de ferramentas e práticas. O que nos espera nos fundamentos de DevOps?
+"""
+palestrante = "Fernando Júnior" #nome do palestrante
