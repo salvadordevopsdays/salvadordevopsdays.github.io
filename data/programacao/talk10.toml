@@ -1,10 +1,10 @@
-hora = "12:15 - 13:15" #hora da atividade
-atividade = "Almoço" #nome da atividade
+hora = "16:10 - 16:35" #hora da atividade
+atividade = " Docker como super comandos" #nome da atividade
 #descricao da atividade (aceita html e markdown)
 #para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas
 #exemplo:
 #descricao = """blablabla
 #blablabla
 #blablabla"""
-descricao = "Hora do almoço, precisa dizer mais? :P"
-palestrante = "" #nome do palestrante
+descricao = ""
+palestrante = "Rafael Gomex (Gomex)" #nome do palestrante

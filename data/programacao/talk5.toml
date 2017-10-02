@@ -1,0 +1,10 @@
+hora = "11:15 - 11:40" #hora da atividade
+atividade = "Dev + Process + Ops" #nome da atividade
+#descricao da atividade (aceita html e markdown)
+#para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas
+#exemplo:
+#descricao = """blablabla
+#blablabla
+#blablabla"""
+descricao = "A integração das areas distintas(Dev e Ops) que possuem fluxo intrafuncional precisam gerir seus processos (BPM) para o novo modelo Devops com processos interfuncionais. Desta maneira, na palestra será abordado explanações dos conceitos de BPM e abordagens dos fluxo de processos em devops. Com explicações dos benefios em gerir processos de um lado Dev(Code, Test e Build) e do outro Ops(deploy, operation e monitoring)."
+palestrante = "Claudisjone Ferreira" #nome do palestrante

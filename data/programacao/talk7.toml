@@ -1,0 +1,12 @@
+hora = "13:55 - 14:20" #hora da atividade
+atividade = "Prometheus e Grafana 101: comece a monitorar suas aplicações, servidores e serviços" #nome da atividade
+#descricao da atividade (aceita html e markdown)
+#para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas
+#exemplo:
+#descricao = """blablabla
+#blablabla
+#blablabla"""
+descricao = """Conheça o casal 20 do monitoramento: Prometheus <3 Granafa!
+Apresentarei todos os conceitos básicos de como monitorar seus servidores, aplicações e serviços; de como ser alertado quando algo estranho acontecer; de como visualizar os dados e como instrumentar sua aplicação.
+Apresentarei o mínimo para colocar o Prometheus e Grafana para funcionar no seu projeto."""
+palestrante = "Robson Roberto Souza Peixoto" #nome do palestrante

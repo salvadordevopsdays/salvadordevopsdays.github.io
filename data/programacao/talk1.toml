@@ -1,10 +1,10 @@
 hora = "09:00 - 09:25" #hora da atividade
-atividade = "A definir" #nome da atividade
+atividade = "Everybody is in the place?! Let's go!" #nome da atividade
 #descricao da atividade (aceita html e markdown)
 #para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas
 #exemplo:
 #descricao = """blablabla
 #blablabla
 #blablabla"""
-descricao = "Palestra a ser definida pelo Call4Papers"
-palestrante = "A definir" #nome do palestrante
+descricao = "Essa será uma introdução sobre ansible, uma solução que automatiza infraestrutura. Essa palestra é para todos os que desejam parar de instalar pacotes e aplicações \"na mão\"."
+palestrante = "Maurício Vieira" #nome do palestrante
