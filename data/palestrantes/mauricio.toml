@@ -1,0 +1,5 @@
+nome = "Maurício Vieira" #nome do palestrante
+empresa = "Omnicode Solutions" #empresa do palestrante
+#minibio do palestrante (aceita markdown), caso seja necessário usar aspas, escapar com \ (ex: \"isto é um exemplo \")
+minibio = "Maurício Vieira é Engenheiro de Software poliglota, soteropolitano, radicado em São Paulo, curte infraestrutura como código e automação."
+imagem = "mauricio.jpg"  #imagem do palestrante, apenas o nome da imagem... deve estar em static/img/palestrantes
