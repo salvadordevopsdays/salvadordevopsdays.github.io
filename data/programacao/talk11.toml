@@ -1,5 +1,5 @@
 hora = "16:45 - 17:30" #hora da atividade
-atividade = "Por que DevOps é fundamental para um desenvolvedor?" #nome da atividade
+atividade = "Orquestração de contêineres Docker usando Swarm" #nome da atividade
 #descricao da atividade (aceita html e markdown)
 #para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas
 #exemplo:
@@ -7,4 +7,4 @@ atividade = "Por que DevOps é fundamental para um desenvolvedor?" #nome da ativ
 #blablabla
 #blablabla"""
 descricao = ""
-palestrante = "Carlos Felippe Cardoso" #nome do palestrante
+palestrante = "Wellington Silve (Boina)" #nome do palestrante
