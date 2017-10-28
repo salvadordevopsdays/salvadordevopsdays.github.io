@@ -1,4 +1,4 @@
-hora = "16:10 - 16:35" #hora da atividade
+hora = "17:00 - 17:25" #hora da atividade
 atividade = " Docker como super comandos" #nome da atividade
 #descricao da atividade (aceita html e markdown)
 #para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas

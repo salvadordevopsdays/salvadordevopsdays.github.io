@@ -1,4 +1,4 @@
-hora = "12:05 - 12:15" #hora da atividade
+hora = "14:25 - 14:35" #hora da atividade
 atividade = "Perguntas" #nome da atividade
 #descricao da atividade (aceita html e markdown)
 #para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas

@@ -1,4 +1,4 @@
-hora = "15:45 - 16:10" #hora da atividade
+hora = "16:35 - 17:00" #hora da atividade
 atividade = " Docker como ferramenta integradora" #nome da atividade
 #descricao da atividade (aceita html e markdown)
 #para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas

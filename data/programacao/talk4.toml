@@ -1,4 +1,4 @@
-hora = "11:15 - 11:40" #hora da atividade
+hora = "14:00 - 14:25" #hora da atividade
 atividade = "Mémoire de um Dev-não-Ops" #nome da atividade
 #descricao da atividade (aceita html e markdown)
 #para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas
