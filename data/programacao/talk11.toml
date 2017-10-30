@@ -1,5 +1,4 @@
 hora = "17:35 - 18:05" #hora da atividade
-atividade = "Orquestração de contêineres Docker usando Swarm" #nome da atividade
-<br /><a href='https://speakerdeck.com/wsilva/orquestracao-de-conteinerer-usando-swarm-devopsdays-salvador-2017' target='blank'>slides</a>"
+atividade = "Orquestração de contêineres Docker usando Swarm"<br /><a href='https://speakerdeck.com/wsilva/orquestracao-de-conteinerer-usando-swarm-devopsdays-salvador-2017' target='blank'>slides</a>"
 descricao = ""
 palestrante = "Wellington Silve (Boina)" #nome do palestrante
