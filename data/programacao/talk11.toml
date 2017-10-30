@@ -1,10 +1,5 @@
 hora = "17:35 - 18:05" #hora da atividade
 atividade = "Orquestração de contêineres Docker usando Swarm" #nome da atividade
-#descricao da atividade (aceita html e markdown)
-#para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas
-#exemplo:
-#descricao = """blablabla
-#blablabla
-#blablabla"""
+<br /><a href='https://speakerdeck.com/wsilva/orquestracao-de-conteinerer-usando-swarm-devopsdays-salvador-2017' target='blank'>slides</a>"
 descricao = ""
 palestrante = "Wellington Silve (Boina)" #nome do palestrante
