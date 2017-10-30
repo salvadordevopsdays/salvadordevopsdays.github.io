@@ -15,5 +15,6 @@ Sendo assim, o que há de novo em DevOps? Em que ele difere das práticas de Ent
 Trabalhei em times onde não só praticávamos integração e entrega contínua como também províamos um ambiente para que outros times o fizessem. Sempre nos consideraram o time "DevOps” e isso me incomodava. Muito antes de qualquer rótulo, eram os princípios de Entrega Contínua que nos guiavam.
 
 A curiosidade me levou a tentar entender o movimento além de ferramentas e práticas. O que nos espera nos fundamentos de DevOps?
+<br /><a href='https://www.slideshare.net/nand0paf/memoir-de-um-devnoops' target='blank'>slides</a>
 """
 palestrante = "Fernando Júnior" #nome do palestrante
