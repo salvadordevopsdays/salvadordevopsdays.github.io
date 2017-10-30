@@ -1,10 +1,4 @@
 hora = "09:00 - 09:25" #hora da atividade
-atividade = "Everybody is in the place?! Let's go!" #nome da atividade
-#descricao da atividade (aceita html e markdown)
-#para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas
-#exemplo:
-#descricao = """blablabla
-#blablabla
-#blablabla"""
-descricao = "Essa será uma introdução sobre ansible, uma solução que automatiza infraestrutura. Essa palestra é para todos os que desejam parar de instalar pacotes e aplicações \"na mão\"."
-palestrante = "Maurício Vieira" #nome do palestrante
+atividade = "Everybody is in the place?! Let's go!"
+descricao = "Essa será uma introdução sobre ansible, uma solução que automatiza infraestrutura. Essa palestra é para todos os que desejam parar de instalar pacotes e aplicações \"na mão\".<br /><br /><a href='https://mauriciovieira.github.io/devopsday-ssa-eiitp/' target='blank'>slides: 🎥</a>"
+palestrante = "Maurício Vieira"
