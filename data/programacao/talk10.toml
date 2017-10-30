@@ -1,10 +1,4 @@
 hora = "17:00 - 17:25" #hora da atividade
-atividade = " Docker como super comandos" #nome da atividade
-#descricao da atividade (aceita html e markdown)
-#para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas
-#exemplo:
-#descricao = """blablabla
-#blablabla
-#blablabla"""
-descricao = ""
+atividade = "Cansei de trabalho manual, quero automatizar tudo" #nome da atividade
+descricao = "Cansei de trabalho manual, quero automatizar tudo <br /><a href='https://www.slideshare.net/linux.rafa/cansei-de-trabalho-manual-quero-automatizar-tudo' target='blank'>slides</a>"
 palestrante = "Rafael Gomex (Gomex)" #nome do palestrante
